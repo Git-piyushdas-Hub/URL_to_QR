@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    position: relative;
+}
+#form-div {
+    margin:15% auto 0;
+    box-sizing: border-box;
+    box-shadow:2px 2px 15px rgb(225, 183, 183);
+    padding:35px;
+    display: inline-block;
+}
+button {
+    display: block;
+    margin:20px auto 0;
+    border-radius: 3px;
+    padding: 6px; 
+    border:1.6px solid rgb(144, 104, 53);
+    cursor: pointer;
+    font-weight: bold;
+    transition: 0.2s ease-in;
+}
+
+button:active {
+    background-color: rgb(233, 218, 191);
+    transform: translateY(-1px);
+}

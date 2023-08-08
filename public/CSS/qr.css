@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+}
+
+div {
+    box-sizing: border-box;
+    box-shadow:2px 2px 15px rgb(225, 183, 183);
+    padding:15px;
+    margin:15% auto 0;
+    display: inline-block;
+}
+a {
+    display: block;
+    margin-top: 15px;
+    font-size: 20px;
+}
